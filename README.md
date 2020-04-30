@@ -19,12 +19,41 @@ Exercises
 
 ![File screen](File.PNG)
 
-- [ ] 4. pwd
+- [x] 4. pwd
 
-- [ ] 5. cd I
+- [x] 5. cd I
 
-- [ ] 6. cd II
+- [x] 6. cd II
 
-- [ ] 7. mkdir
+- [x] 7. mkdir
 
-- [ ] 8. touch
+- [x] 8. touch
+
+
+## LESSON 2 Manipulation (Viewing and Changing the File System)
+
+Learn how to copy, move, and delete files and directories from the command line.
+
+Exercises
+
+- [x] 1. ls, revisited
+
+- [x] 2. ls -a
+
+- [x] 3. ls -l
+
+![ls-l screen](ls-l.PNG)
+
+- [x] 4. ls -alt  
+
+![ls-alt screen](ls-alt.PNG)
+
+- [ ] 5. cp I
+
+- [ ] 6. cp II
+
+- [ ] 7. Wildcards
+
+- [ ] 8. mv
+
+- [ ] 9. rm
