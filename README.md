@@ -48,12 +48,43 @@ Exercises
 
 ![ls-alt screen](ls-alt.PNG)
 
-- [ ] 5. cp I
+- [x] 5. cp I
 
-- [ ] 6. cp II
+- [x] 6. cp II
 
-- [ ] 7. Wildcards
+- [x] 7. Wildcards
 
-- [ ] 8. mv
+- [x] 8. mv
 
-- [ ] 9. rm
+- [x] 9. rm
+
+
+## LESSON 3 Redirecting Input and Output
+
+Learn how to redirect input and output to and from files and programs.
+
+Exercises
+
+- [ ] 1. Redirection
+
+- [ ] 2. stdin, stdout, and stderr
+
+- [ ] 3. Your first redirect
+
+- [ ] 4. >
+
+- [ ] 5. >>
+
+- [ ] 6. <
+
+- [ ] 7. |
+
+- [ ] 8. sort
+
+- [ ] 9. uniq
+
+- [ ] 10. grep I
+
+- [ ] 11. grep II
+
+- [ ] 12. sed
