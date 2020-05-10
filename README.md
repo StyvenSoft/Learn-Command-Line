@@ -65,15 +65,19 @@ Learn how to redirect input and output to and from files and programs.
 
 Exercises
 
-- [ ] 1. Redirection
+- [x] 1. Redirection
 
-- [ ] 2. stdin, stdout, and stderr
+- [x] 2. stdin, stdout, and stderr
 
-- [ ] 3. Your first redirect
+![echo screen](echo.PNG)
 
-- [ ] 4. >
+- [x] 3. Your first redirect
 
-- [ ] 5. >>
+- [x] 4. >
+
+- [x] 5. >>
+
+![rec2 screen](rec2.PNG)
 
 - [ ] 6. <
 
