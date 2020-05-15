@@ -96,3 +96,30 @@ Exercises
 - [x] 12. sed
 
 ![sed screen](Sed.PNG)
+
+
+## LESSON 4 Configuring the Environment
+
+Learn how to configure the environment using the command line.
+
+Exercises
+
+- [x] 1. Environment
+
+- [ ] 2. nano
+
+- [ ] 3. Bash Profile
+
+- [ ] 4. Aliases I
+
+- [ ] 5. Aliases II
+
+- [ ] 6. Environment Variables
+
+- [ ] 7. PS1
+
+- [ ] 8. HOME
+
+- [ ] 9. PATH
+
+- [ ] 10. env
