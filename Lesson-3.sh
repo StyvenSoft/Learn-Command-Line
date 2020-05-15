@@ -41,4 +41,27 @@ $ cat volcanoes.txt | baño
 
 cat volcanoes.txt | wc | cat > islands.txt 
 
+## sort toma la entrada estándar y la ordena alfabéticamente para la salida estándar.
+
+$ sort lakes.txt 
+
+# el comando toma la salida estándar de cat lakes.txty la "canaliza" a sort.
+# La salida estándar de sortse redirige a sorted-lakes.txt
+
+$ cat lakes.txt | sort> sorted-lakes.txt
+
+# uniqsignifica "único" y filtra las líneas adyacentes duplicadas en un archivo. 
+
+$ uniq deserts.txt 
+
+# Una forma más efectiva de llamar uniqes llamar sortpara alfabetizar un archivo y "canalizar" 
+# la salida estándar a uniq.
+
+$ sort deserts.txt | uniq
+
+# enviamos contenido filtrado a uniq-deserts.txt , que puede ver con el catcomando.
+
+sort deserts.txt | uniq > uniq-deserts.txt 
+
+
 

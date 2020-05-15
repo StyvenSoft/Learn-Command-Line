@@ -87,7 +87,7 @@ Exercises
 
 - [x] 8. sort
 
-- [ ] 9. uniq
+- [x] 9. uniq
 
 - [ ] 10. grep I
 
