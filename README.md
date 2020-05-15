@@ -89,8 +89,10 @@ Exercises
 
 - [x] 9. uniq
 
-- [ ] 10. grep I
+- [x] 10. grep I
 
-- [ ] 11. grep II
+- [x] 11. grep II
 
-- [ ] 12. sed
+- [x] 12. sed
+
+![sed screen](Sed.PNG)

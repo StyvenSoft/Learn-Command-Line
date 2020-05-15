@@ -63,5 +63,35 @@ $ sort deserts.txt | uniq
 
 sort deserts.txt | uniq > uniq-deserts.txt 
 
+## grep significa "impresión de expresión regular global". Busca en los archivos líneas que 
+# coincidan con un patrón y devuelve los resultados.  # grep busca "Mount"
 
+$ grep Mount mountains.txt 
 
+## grep -i permite que el comando no distinga entre mayúsculas y minúsculas.
+
+$ grep -i Mount mountains.txt
+
+# grep -Rbusca todos los archivos en un directorio y genera nombres de archivo y 
+# líneas que contienen resultados coincidentes.
+
+$ grep -R Arctic /home/ccuser/workspace/geography
+
+# grep -Rl busca todos los archivos en un directorio y genera solo nombres de archivo con resultados coincidentes. 
+# -R significa "recursivo" y l significa "archivos con coincidencias". 
+
+$ grep -Rl Arctic /home/ccuser/workspace/geography
+
+## sedsignifica "editor de flujo". Acepta entradas estándar y las modifica en función 
+# de una expresión , antes de mostrarlas como datos de salida. Es similar a "buscar y reemplazar".
+
+$ sed 's/snow/rain/' forests.txt 
+
+# Veamos la expresión 's/snow/rain/':
+# s: significa "sustitución". se siempre se utiliza cuando se usan sedpara la sustitución.
+# snow: la cadena de búsqueda, el texto a buscar.
+# rain: la cadena de reemplazo, el texto para agregar en su lugar.
+
+# El comando anterior utiliza la gexpresión, que significa "global".
+
+$ sed 's/snow/rain/g' forests.txt 
