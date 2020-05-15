@@ -79,11 +79,13 @@ Exercises
 
 ![rec2 screen](rec2.PNG)
 
-- [ ] 6. <
+- [x] 6. <
 
-- [ ] 7. |
+- [x] 7. |
 
-- [ ] 8. sort
+![pipe screen](Pipe.PNG)
+
+- [x] 8. sort
 
 - [ ] 9. uniq
 

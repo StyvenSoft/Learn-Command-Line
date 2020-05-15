@@ -19,7 +19,7 @@ echo "Hello" > hello.txt
 
 $ cat hello.txt 
 
-# El catcomando envía el contenido de un archivo al terminal.
+# El cat comando envía el contenido de un archivo al terminal.
 # > toma la salida estándar del comando a la izquierda y la redirige al archivo a la derecha.
 
 cat oceans.txt > continents.txt 
@@ -28,5 +28,17 @@ cat oceans.txt > continents.txt
 # contendrán el contenido original de rivers.txt con el contenido de glaciers.txt adjunto.
 
 cat glaciers.txt >> rivers.txt
+
+# < toma la entrada estándar del archivo a la derecha y la ingresa en el programa a la izquierda
+
+$ cat < file.txt
+
+## El |toma la salida estándar del comando de la izquierda, y tuberías como entrada estándar al comando a la derecha.
+
+$ cat volcanoes.txt | baño
+
+#la salida de cat volcanoes.txt es la entrada estándar de wc
+
+cat volcanoes.txt | wc | cat > islands.txt 
 
 
