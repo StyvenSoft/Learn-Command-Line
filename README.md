@@ -106,11 +106,13 @@ Exercises
 
 - [x] 1. Environment
 
-- [ ] 2. nano
+- [x] 2. nano
 
-- [ ] 3. Bash Profile
+- [x] 3. Bash Profile
 
-- [ ] 4. Aliases I
+![nano screen](nano.PNG)
+
+- [x] 4. Aliases I
 
 - [ ] 5. Aliases II
 
