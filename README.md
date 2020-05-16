@@ -114,14 +114,16 @@ Exercises
 
 - [x] 4. Aliases I
 
-- [ ] 5. Aliases II
+- [x] 5. Aliases II
 
-- [ ] 6. Environment Variables
+- [x] 6. Environment Variables
 
-- [ ] 7. PS1
+- [x] 7. PS1
 
-- [ ] 8. HOME
+- [x] 8. HOME
 
-- [ ] 9. PATH
+- [x] 9. PATH
 
-- [ ] 10. env
+- [x] 10. env
+
+![env screen](env.PNG)

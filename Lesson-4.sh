@@ -60,6 +60,40 @@ export USER="Jane Doe"
 
 echo $USER
 
+# PS1 es una variable que define la composición y el estilo del símbolo del sistema.
+# establece la variable del símbolo del sistema y exporta la variable
+
+export PS1=">> "
+
+# La HOME variable es una variable de entorno que muestra la ruta del directorio de inicio.
+
+$ echo $HOME 
+
+# PATHes una variable de entorno que almacena una lista de directorios separados por dos puntos.
+
+$ echo $PATH
+
+/home/ccuser/.gem/ruby/2.0.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin
+
+# muchos comandos que hemos aprendido son scripts almacenados en el directorio / bin .
+
+/bin/pwd
+
+/bin/ls
+
+# El env comando significa "entorno" y devuelve una lista de las variables de entorno para el usuario actual
+
+# el env comando devuelve una serie de variables, incluyendo PATH, PWD, PS1, y HOME.
+
+env
+
+# env | grep PATHes un comando que muestra el valor de una sola variable de entorno.
+
+env | grep PATH 
+
+
+
+
 
 
 
