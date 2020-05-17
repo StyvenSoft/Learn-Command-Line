@@ -127,3 +127,28 @@ Exercises
 - [x] 10. env
 
 ![env screen](env.PNG)
+
+
+## LESSON 5 Learn Bash Scripting
+
+Learn how to automate common tasks using bash scripting.
+
+Exercises
+
+- [X] 1. Introduction to Bash Scripting
+
+- [ ] 2. Variables
+
+- [ ] 3. Conditionals
+
+- [ ] 4. Loops
+
+- [ ] 5. Inputs
+
+- [ ] 6. Aliases
+
+---
+
+[Command Support Document](https://www.fing.edu.uy/inco/cursos/sistoper/recursosLaboratorio/tutorial0.pdf)
+
+[Text Editor Nano](https://www.nano-editor.org/)
