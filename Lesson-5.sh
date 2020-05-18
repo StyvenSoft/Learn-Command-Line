@@ -83,4 +83,48 @@ else
   echo $later_greeting
 fi
 
+# Loops
 
+# Existen 3 maneras diferentes de bucle dentro de un script bash: for, while y until
+
+# si tuviéramos una lista de palabras almacenadas en una variable paragraph
+
+for word in $paragraph
+do
+  echo $word
+done
+
+#  Si queremos imprimir la indexvariable siempre que sea menor que 5, usaríamos el siguiente while ciclo
+
+while [ $index -lt 5 ]
+do
+  echo $index
+  index=$((index + 1))
+done
+
+# El mismo bucle también podría escribirse como un untilbucle de la siguiente manera
+
+until [ $index -eq 5 ]
+do
+  echo $index
+  index=$((index + 1))
+done
+
+#  Queremos hacer un loop mientras $greeting_occasionsea ​​menor que 3
+
+while [ $index -lt 5 ]
+
+#!/bin/bash
+first_greeting="Nice to meet you!"
+later_greeting="How are you?"
+greeting_occasion=0
+while [ $greeting_occasion -lt 3 ]
+do
+  if [ $greeting_occasion -lt 1 ]
+  then
+    echo $first_greeting
+  else
+    echo $later_greeting
+  fi
+  greeting_occasion=$((greeting_occasion + 1))
+done
