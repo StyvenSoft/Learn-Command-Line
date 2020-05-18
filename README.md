@@ -137,9 +137,9 @@ Exercises
 
 - [X] 1. Introduction to Bash Scripting
 
-- [ ] 2. Variables
+- [x] 2. Variables
 
-- [ ] 3. Conditionals
+- [x] 3. Conditionals
 
 - [ ] 4. Loops
 

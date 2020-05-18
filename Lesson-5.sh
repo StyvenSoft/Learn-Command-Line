@@ -19,3 +19,68 @@ PATH=~/bin:$PATH
 
 $ ./script.sh
 
+#!/bin/bash
+
+echo "Hello Codecademy!"
+
+# Variables
+# para establecer la variable greeting en "Hello", usaría la siguiente sintaxis
+
+greeting="Hello"
+
+phrase="Hello to you!"
+
+# Para acceder al valor de una variable, utilizamos el nombre de la variable antepuesto con un signo de dólar ( $)
+
+echo $phrase
+
+# Ejecute el script en la terminal.
+
+./script.sh
+
+# Conditionals
+
+# usar condicionales para controlar qué conjunto de comandos dentro de la ejecución del script
+# Use ifpara iniciar el condicional, seguido de la condición entre corchetes ( [ ]).
+# then comienza el código que se ejecutará si se cumple la condición
+
+# script bash usa la siguiente sintaxis
+# Aquí usamos -lt cuál es "menor que"
+# 
+
+if [ $index -lt 5 ]
+then
+  echo $index
+else
+  echo 5
+fi
+
+# lista de operadores de comparación para los números que puede usar dentro de los scripts de bash
+
+# Igual: -eq
+# No es igual: -ne
+# Menor o igual: -le
+# Menos que: -lt
+# Mayor que o igual: -ge
+# Mas grande que: -gt
+# Es nulo: -z
+
+# para comparar si las variables fooy barcontienen la misma cadena
+
+if [ "$foo" == "$bar"]
+
+# dos saludos diferentes y una variable para almacenar cuántas veces se ha saludado al usuario anteriormente
+
+#!/bin/bash
+first_greeting="Nice to meet you!"
+later_greeting="How are you?"
+greeting_occasion=1
+
+if [ $greeting_occasion -lt 1 ]
+then
+  echo $first_greeting
+else
+  echo $later_greeting
+fi
+
+
