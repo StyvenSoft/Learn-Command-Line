@@ -128,3 +128,71 @@ do
   fi
   greeting_occasion=$((greeting_occasion + 1))
 done
+
+# Inputs
+
+# Acceder a los datos externos al archivo de scripts de bash
+# usamos la read sintaxis. Para pedirle al usuario una entrada y guardarla en la number variable
+
+echo "Guess a number"
+read number
+echo "You guessed $number"
+
+# Otra forma de acceder a datos externos es hacer que el usuario agregue argumentos de entrada cuando ejecutan su script. 
+
+saycolors red green blue
+
+# Si su script necesita aceptar un número indefinido de argumentos de entrada, puede 
+# iterar sobre ellos utilizando la "$@"sintaxis
+
+for color in "$@"
+do
+  echo $color
+done
+
+# para obtener todos los archivos en un directorio, puede usar el * carácter:
+
+files=/some/directory/*
+
+# imprimamos la ruta completa y el nombre de archivo
+
+for file in $files
+do
+  echo $file
+done
+
+# Preguntémosle al usuario cuántas veces el programa debería saludarlos.
+
+#!/bin/bash
+first_greeting="Nice to meet you!"
+later_greeting="How are you?"
+greeting_occasion=0
+
+echo "How many times should I greet?"
+read greeting_limit
+while [ $greeting_occasion -lt $greeting_limit ]
+do
+  if [ $greeting_occasion -lt 1 ]
+  then
+    echo $first_greeting
+  else
+    echo $later_greeting
+  fi
+  greeting_occasion=$((greeting_occasion + 1))
+done
+
+
+# Aliases
+
+# Puede configurar alias para sus scripts de bash dentro de su archivo .bashrc o .bash_profile 
+# para permitir llamar a sus scripts sin el nombre de archivo completo
+
+alias saycolors='./saycolors.sh'
+
+# si siempre queremos que se incluya "green" como la primera entrada saycolors
+
+alias saycolors='./saycolors.sh "green"'
+
+# puede agregar este alias a su ~/.bashrc para activar el alias cada vez que se inicia el terminal
+
+alias greet3="./script.sh 3"

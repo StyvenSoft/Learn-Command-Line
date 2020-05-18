@@ -141,11 +141,11 @@ Exercises
 
 - [x] 3. Conditionals
 
-- [ ] 4. Loops
+- [x] 4. Loops
 
-- [ ] 5. Inputs
+- [x] 5. Inputs
 
-- [ ] 6. Aliases
+- [x] 6. Aliases
 
 ---
 
