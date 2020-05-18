@@ -149,6 +149,17 @@ Exercises
 
 ---
 
+```sh
+#!/bin/bash
+echo "🔥🔥🔥Beginning build sh!! 🔥🔥🔥"
+
+```
+
+
 [Command Support Document](https://www.fing.edu.uy/inco/cursos/sistoper/recursosLaboratorio/tutorial0.pdf)
 
 [Text Editor Nano](https://www.nano-editor.org/)
+
+[Index of Linux Commands](http://www.linfo.org/command_index.html)
+
+[The Linux Command Line](http://linuxcommand.org/)
