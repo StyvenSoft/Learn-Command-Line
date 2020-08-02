@@ -17,7 +17,7 @@ Exercises
 
 - [x] 3. Filesystem
 
-![File screen](File.PNG)
+![File screen](./assets/File.PNG)
 
 - [x] 4. pwd
 
@@ -42,11 +42,11 @@ Exercises
 
 - [x] 3. ls -l
 
-![ls-l screen](ls-l.PNG)
+![ls-l screen](./assets/ls-l.PNG)
 
 - [x] 4. ls -alt  
 
-![ls-alt screen](ls-alt.PNG)
+![ls-alt screen](./assets/ls-alt.PNG)
 
 - [x] 5. cp I
 
@@ -69,7 +69,7 @@ Exercises
 
 - [x] 2. stdin, stdout, and stderr
 
-![echo screen](echo.PNG)
+![echo screen](./assets/echo.PNG)
 
 - [x] 3. Your first redirect
 
@@ -77,13 +77,13 @@ Exercises
 
 - [x] 5. >>
 
-![rec2 screen](rec2.PNG)
+![rec2 screen](./assets/rec2.PNG)
 
 - [x] 6. <
 
 - [x] 7. |
 
-![pipe screen](Pipe.PNG)
+![pipe screen](./assets/Pipe.PNG)
 
 - [x] 8. sort
 
@@ -95,7 +95,7 @@ Exercises
 
 - [x] 12. sed
 
-![sed screen](Sed.PNG)
+![sed screen](./assets/Sed.PNG)
 
 
 ## LESSON 4 Configuring the Environment
@@ -110,7 +110,7 @@ Exercises
 
 - [x] 3. Bash Profile
 
-![nano screen](nano.PNG)
+![nano screen](./assets/nano.PNG)
 
 - [x] 4. Aliases I
 
@@ -126,7 +126,7 @@ Exercises
 
 - [x] 10. env
 
-![env screen](env.PNG)
+![env screen](./assets/env.PNG)
 
 
 ## LESSON 5 Learn Bash Scripting
