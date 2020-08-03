@@ -74,3 +74,11 @@ if [ "$ageThree" -gt 18 -a "$ageThree" -lt 40 ]; then
 else
     echo "Age is not correct"
 fi
+
+# The logical OR operator  ||
+
+if [[ "$ageThree" -lt 18 || "$ageThree" -gt 40 ]]; then
+    echo "Age is correct"
+else
+    echo "Age is not correct"
+fi
