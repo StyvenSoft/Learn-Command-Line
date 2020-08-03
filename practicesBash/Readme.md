@@ -9,7 +9,7 @@ In this Bash Scripting practice, I perform the exercises from printing a simple 
 - [x] 2-Redirect to file
 - [x] 3-Comments
 - [x] 4-Conditional Statements
-- [ ] 5-Loops
+- [x] 5-Loops
 - [ ] 6-Script input
 - [ ] 7-Script output
 - [ ] 8-how to send output from one script to another scrpt
