@@ -4,8 +4,8 @@
 In this Bash Scripting practice, I perform the exercises from printing a simple "Hello World" to using conditional statements like if statements, case statements to using loops like while, for, and even loops to using awk, sed, and bash debugging scripts. In general, I practice and cover the following topics:
 
 - [x] 1-Hello Bash Scripting
-- [ ] 2-Redirect to file
-- [ ] 3-Comments
+- [x] 2-Redirect to file
+- [x] 3-Comments
 - [ ] 4-Conditional Statements
 - [ ] 5-Loops
 - [ ] 6-Script input
