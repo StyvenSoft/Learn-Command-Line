@@ -1,0 +1,17 @@
+total 26
+1 -rwxr-xr-x 1 USUARIO 197121  134 ago.  2 19:51 1-helloScript.sh
+1 -rwxr-xr-x 1 USUARIO 197121   43 ago.  2 21:12 2-RedirectCat.sh
+1 -rwxr-xr-x 1 USUARIO 197121  119 ago.  2 21:03 2-Redirecttofile.sh
+1 -rwxr-xr-x 1 USUARIO 197121  373 ago.  2 21:25 3-Comments.sh
+4 -rwxr-xr-x 1 USUARIO 197121 1318 ago.  3 10:44 4-ConditionalStatements.sh
+4 -rwxr-xr-x 1 USUARIO 197121 1009 ago.  3 15:44 5-Loops.sh
+1 -rwxr-xr-x 1 USUARIO 197121  249 ago.  3 17:47 6-ScriptInput.sh
+1 -rwxr-xr-x 1 USUARIO 197121   88 ago.  3 18:22 7-ScriptOutput.sh
+1 -rw-r--r-- 1 USUARIO 197121   35 ago.  2 21:03 file.txt
+4 -rw-r--r-- 1 USUARIO 197121  970 ago.  3 18:22 file1.txt
+0 -rw-r--r-- 1 USUARIO 197121    0 ago.  3 18:22 file2.txt
+1 -rw-r--r-- 1 USUARIO 197121   51 ago.  3 18:22 file3.txt
+0 -rw-r--r-- 1 USUARIO 197121    0 ago.  3 18:22 file4.txt
+1 -rw-r--r-- 1 USUARIO 197121   88 ago.  2 21:14 fileTwo.txt
+1 -rwxr-xr-x 1 USUARIO 197121  128 ago.  2 18:29 greeting.sh
+4 -rw-r--r-- 1 USUARIO 197121 1031 ago.  3 17:47 Readme.md

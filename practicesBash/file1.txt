@@ -1,0 +1,17 @@
+total 29
+drwxr-xr-x 1 USUARIO 197121    0 ago.  3 18:22 .
+drwxr-xr-x 1 USUARIO 197121    0 ago.  2 20:23 ..
+-rwxr-xr-x 1 USUARIO 197121  134 ago.  2 19:51 1-helloScript.sh
+-rwxr-xr-x 1 USUARIO 197121   43 ago.  2 21:12 2-RedirectCat.sh
+-rwxr-xr-x 1 USUARIO 197121  119 ago.  2 21:03 2-Redirecttofile.sh
+-rwxr-xr-x 1 USUARIO 197121  373 ago.  2 21:25 3-Comments.sh
+-rwxr-xr-x 1 USUARIO 197121 1318 ago.  3 10:44 4-ConditionalStatements.sh
+-rwxr-xr-x 1 USUARIO 197121 1009 ago.  3 15:44 5-Loops.sh
+-rwxr-xr-x 1 USUARIO 197121  249 ago.  3 17:47 6-ScriptInput.sh
+-rwxr-xr-x 1 USUARIO 197121   88 ago.  3 18:22 7-ScriptOutput.sh
+-rw-r--r-- 1 USUARIO 197121   35 ago.  2 21:03 file.txt
+-rw-r--r-- 1 USUARIO 197121    0 ago.  3 18:22 file1.txt
+-rw-r--r-- 1 USUARIO 197121    0 ago.  3 18:22 file2.txt
+-rw-r--r-- 1 USUARIO 197121   88 ago.  2 21:14 fileTwo.txt
+-rwxr-xr-x 1 USUARIO 197121  128 ago.  2 18:29 greeting.sh
+-rw-r--r-- 1 USUARIO 197121 1031 ago.  3 17:47 Readme.md
