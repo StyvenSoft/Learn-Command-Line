@@ -14,7 +14,7 @@ In this Bash Scripting practice, I perform the exercises from printing a simple 
 - [x] 7-Script output
 - [x] 8-how to send output from one script to another scrpt
 - [x] 9-String Processing
-- [ ] 10-Numbers and Arithmetic
+- [x] 10-Numbers and Arithmetic
 - [ ] 11-Declare Command
 - [ ] 12-Arrays
 - [ ] 13-Functions
