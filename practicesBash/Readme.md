@@ -17,8 +17,8 @@ In this Bash Scripting practice, I perform the exercises from printing a simple 
 - [x] 10-Numbers and Arithmetic
 - [X] 11-Declare Command
 - [X] 12-Arrays
-- [ ] 13-Functions
-- [ ] 14-Files and Directories
+- [x] 13-Functions
+- [x] 14-Files and Directories
 - [ ] 15-Send Email Via Script
 - [ ] 16-Curl in Scripts
 - [ ] 17-Professional Menus
