@@ -15,8 +15,8 @@ In this Bash Scripting practice, I perform the exercises from printing a simple 
 - [x] 8-how to send output from one script to another scrpt
 - [x] 9-String Processing
 - [x] 10-Numbers and Arithmetic
-- [ ] 11-Declare Command
-- [ ] 12-Arrays
+- [X] 11-Declare Command
+- [X] 12-Arrays
 - [ ] 13-Functions
 - [ ] 14-Files and Directories
 - [ ] 15-Send Email Via Script
