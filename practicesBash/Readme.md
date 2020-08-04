@@ -11,7 +11,7 @@ In this Bash Scripting practice, I perform the exercises from printing a simple 
 - [x] 4-Conditional Statements
 - [x] 5-Loops
 - [x] 6-Script input
-- [ ] 7-Script output
+- [x] 7-Script output
 - [ ] 8-how to send output from one script to another scrpt
 - [ ] 9-String Processing
 - [ ] 10-Numbers and Arithmetic
