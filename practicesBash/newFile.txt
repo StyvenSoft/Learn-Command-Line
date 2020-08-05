@@ -1,0 +1,41 @@
+What Is Lorem Ipsum?
+Lorem Ipsum Is sImply dummy text of the prIntIng and typesettIng Industry. 
+Lorem Ipsum has been the Industry's standard dummy text ever sInce the 1500s, 
+when an unknown prInter took a galley of type and scrambled It to make a type 
+specImen book. It has survIved not only fIve centurIes, but also the leap 
+Into electronIc typesettIng, remaInIng essentIally unchanged. It was popularIsed 
+In the 1960s wIth the release of Letraset sheets contaInIng Lorem Ipsum passages, 
+and more recently wIth desktop publIshIng software lIke Aldus PageMaker IncludIng 
+versIons of Lorem Ipsum.
+
+Why do we use It?
+It Is a long establIshed fact that a reader wIll be dIstracted by 
+the readable content of a page when lookIng at Its layout. 
+The poInt of usIng Lorem Ipsum Is that It has a more-or-less 
+normal dIstrIbutIon of letters, as opposed to usIng 'Content here, content here', 
+makIng It look lIke readable EnglIsh. Many desktop publIshIng 
+packages and web page edItors now use Lorem Ipsum as theIr default model text, 
+and a search for 'lorem Ipsum' wIll uncover many web sItes stIll In theIr Infancy.
+VarIous versIons have evolved over the years, sometImes by accIdent, sometImes 
+on purpose (Injected humour and the lIke).
+
+What Is Lorem Ipsum?
+Lorem Ipsum Is sImply dummy text of the prIntIng and typesettIng Industry. 
+Lorem Ipsum has been the Industry's standard dummy text ever sInce the 1500s, 
+when an unknown prInter took a galley of type and scrambled It to make a type 
+specImen book. It has survIved not only fIve centurIes, but also the leap 
+Into electronIc typesettIng, remaInIng essentIally unchanged. It was popularIsed 
+In the 1960s wIth the release of Letraset sheets contaInIng Lorem Ipsum passages, 
+and more recently wIth desktop publIshIng software lIke Aldus PageMaker IncludIng 
+versIons of Lorem Ipsum.
+
+Why do we use It?
+It Is a long establIshed fact that a reader wIll be dIstracted by 
+the readable content of a page when lookIng at Its layout. 
+The poInt of usIng Lorem Ipsum Is that It has a more-or-less 
+normal dIstrIbutIon of letters, as opposed to usIng 'Content here, content here', 
+makIng It look lIke readable EnglIsh. Many desktop publIshIng 
+packages and web page edItors now use Lorem Ipsum as theIr default model text, 
+and a search for 'lorem Ipsum' wIll uncover many web sItes stIll In theIr Infancy.
+VarIous versIons have evolved over the years, sometImes by accIdent, sometImes 
+on purpose (Injected humour and the lIke).

@@ -22,8 +22,12 @@ In this Bash Scripting practice, I perform the exercises from printing a simple 
 - [x] 15-Send Email Via Script
 - [x] 16-Curl in Scripts
 - [x] 17-Professional Menus
-- [ ] 18-Wait for filesystem events with inotify
-- [ ] 19-Introduction to grep
-- [ ] 20-Introduction to awk
-- [ ] 21-Introduction to sed
-- [ ] 22- Debugging bash scripts
+- [x] 18-Wait for filesystem events with inotify
+- [x] 19-Introduction to grep
+- [x] 20-Introduction to awk
+- [x] 21-Introduction to sed
+- [x] 22- Debugging bash scripts
+
+---
+
+[Bash Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
