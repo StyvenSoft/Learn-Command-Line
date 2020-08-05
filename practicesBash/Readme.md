@@ -21,7 +21,7 @@ In this Bash Scripting practice, I perform the exercises from printing a simple 
 - [x] 14-Files and Directories
 - [x] 15-Send Email Via Script
 - [x] 16-Curl in Scripts
-- [ ] 17-Professional Menus
+- [x] 17-Professional Menus
 - [ ] 18-Wait for filesystem events with inotify
 - [ ] 19-Introduction to grep
 - [ ] 20-Introduction to awk
